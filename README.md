@@ -23,7 +23,7 @@ Baixe o arquivo `cnx-updater.zip` do link acima e o extraia na `raiz` do microSD
 No final você deve ter uma pasta `cnx-updater` dentro da pasta `/switch`.
 
 ## Onde achar o homebrew e como iniciá-lo?
-Abra a lista de homebrews do seu desbloqueio (no `Atmosphère` é o botão do `Album`) e execute o homebrew `Atualizador Pacote GameMod` (também conhecido por `APG`).
+Abra a lista de homebrews do seu desbloqueio (no `Atmosphère` é o botão do `Album`) e execute o homebrew `CNX Updater`.
 Se você estiver com dúvidas de como usar o homebrew, aperte o botão `X` e uma janela de ajuda irá aparecer.
 
 ## Descrição das funções

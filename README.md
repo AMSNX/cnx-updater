@@ -1,4 +1,4 @@
-<h1 align="center">CNX Pack Updater</h1>
+<h1 align="center">CNX Updater</h1>
 
 <div align="center">
 <img src="./Images/bootlogo.png" alight-itens="center">
@@ -10,7 +10,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/AMSNX/cnx-updater)](https://github.com/AMSNX/cnx-updater/issues)
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-Um homebrew de Nintendo Switch, baseado no homebrew [AIO-Switch-Updater](https://github.com/HamletDuFromage/aio-switch-updater/), para fazer o download e atualizar firmwares e o custom firmware [CNX](https://github.com/AMSNX/cnx-updater/releases).
+Um homebrew de Nintendo Switch, baseado no homebrew [AIO-Switch-Updater](https://github.com/HamletDuFromage/aio-switch-updater/), para fazer o download e atualizar firmwares e o custom firmware [CNX](https://github.com/AMSNX/CNX/releases).
 
 CNX é um pacote all-in-one (tudo em um) de custom firmware que inclui o Atmosphère, sigpatches, hekate, nyx e vários outros homebrews.
 

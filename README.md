@@ -65,8 +65,6 @@ O AMSNX não detém nenhum direito de cópia sobre nenhum arquivo baixado por es
 
 ## 📝 Licença
 
-![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
-
 O nome Nintendo Switch e logo são marcas registradas de [Nintendo](https://github.com/Nintendo). Este repositório não é afiliado a [Nintendo](https://github.com/Nintendo) ou nenhum dos seus parceiros.
 
 The Nintendo Switch names and logos are a trademark of [Nintendo](https://github.com/Nintendo). This repository is in no way affiliated with [Nintendo](https://github.com/Nintendo) or any of its partners.
